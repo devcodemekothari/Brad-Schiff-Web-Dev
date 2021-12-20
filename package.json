@@ -20,6 +20,7 @@
   "homepage": "https://github.com/devcodemekothari/Brad-Schiff-Web-Dev#readme",
   "devDependencies": {
     "css-loader": "^5.0.1",
+    "postcss-import": "^14.0.2",
     "postcss-loader": "^6.2.1",
     "style-loader": "^2.0.0",
     "webpack": "^5.20.1",
@@ -27,6 +28,7 @@
   },
   "dependencies": {
     "autoprefixer": "^10.4.0",
+    "normalize.css": "^8.0.1",
     "postcss-nested": "^5.0.6",
     "postcss-simple-vars": "^6.0.3"
   }
