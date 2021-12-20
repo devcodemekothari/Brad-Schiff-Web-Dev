@@ -1,0 +1,25 @@
+{
+  "name": "Brad-Schiff-Web-Dev",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/devcodemekothari/Brad-Schiff-Web-Dev.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/devcodemekothari/Brad-Schiff-Web-Dev/issues"
+  },
+  "homepage": "https://github.com/devcodemekothari/Brad-Schiff-Web-Dev#readme",
+  "devDependencies": {
+    "webpack": "^5.65.0",
+    "webpack-cli": "^4.9.1"
+  }
+}
